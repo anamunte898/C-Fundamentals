@@ -14,7 +14,6 @@ namespace Syntax1
 
             // Error! This is an expression, not an expression statement. 
             // counter + 1;  
-
             const double pi = 3.14159; // Declare and initialize  constant.    
             //pi = 23; Error! The left-hand side of an assignment must be a variable, property or indexer
             Console.WriteLine("This is the value of pi: {0}..", pi);
